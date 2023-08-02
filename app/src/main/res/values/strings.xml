@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="sura">Sura</string>
+    <string name="oyat">Oyat</string>
+    <string name="ko_rish">Ko\'rish</string>
+    <string name="natija">Natija</string>
+    <string name="splash">Splash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
